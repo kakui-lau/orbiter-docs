@@ -1,0 +1,2 @@
+import{_ as e,c as o,o as t,a}from"./app.6a2d5288.js";const u=JSON.parse('{"title":"ChainCore-SDK Modules","description":"","frontmatter":{"title":"ChainCore-SDK Modules","layout":"page"},"headers":[],"relativePath":"ChainCore/modules.md"}'),s={name:"ChainCore/modules.md"},r=a("iframe",{height:"2000px",width:"100%",src:"/chain-core-sdk/modules.html",frameborder:"0",allowfullscreen:""},`
+ `,-1),n=[r];function c(d,l,i,m,_,h){return t(),o("div",null,n)}const f=e(s,[["render",c]]);export{u as __pageData,f as default};

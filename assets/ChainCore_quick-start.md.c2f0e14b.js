@@ -1,0 +1,2 @@
+import{_ as e,c as t,o as a,a as r}from"./app.6a2d5288.js";const m=JSON.parse('{"title":"Quick-Start ChainCore-SDK","description":"","frontmatter":{"title":"Quick-Start ChainCore-SDK","layout":"page"},"headers":[],"relativePath":"ChainCore/quick-start.md"}'),o={name:"ChainCore/quick-start.md"},c=r("iframe",{height:"2000px",width:"100%",src:"/chain-core-sdk/index.html",frameborder:"0",allowfullscreen:""},`
+ `,-1),s=[c];function i(n,d,l,_,h,p){return a(),t("div",null,s)}const f=e(o,[["render",i]]);export{m as __pageData,f as default};
